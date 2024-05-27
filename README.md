@@ -19,5 +19,5 @@ To use the code in this repository, follow these steps:
 - Model Building: Implementing the PassiveAggressiveClassifier to create a robust fake news detection model.
 - Model Evaluation: Evaluating model performance using metrics such as accuracy, confusion matrix, and classification report.
 - Prediction: Making predictions on new articles to classify them as real or fake news.
-Contact
+# Contact
 For any inquiries or further information, please contact: Name: V. Varshitaa Email: varshitaa21@gmail.com
