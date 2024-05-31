@@ -1,5 +1,5 @@
-# -Fake-News-Detection
-- Download this dataset zip file and extract them into the project folder from the drive link provided [https://drive.google.com/file/d/1J0kKyV-mYzZetxiaGOPpdm19CjRpXaJ6/view?usp=drive_link](https://drive.google.com/file/d/1qfeaAW3zUoCroMXmFhLMlaHu8hWyx1OI/view?usp=drive_link)
+# Fake-News-Detection
+Download this dataset zip file and extract them into the project folder from the drive link provided [https://drive.google.com/file/d/1J0kKyV-mYzZetxiaGOPpdm19CjRpXaJ6/view?usp=drive_link](https://drive.google.com/file/d/1qfeaAW3zUoCroMXmFhLMlaHu8hWyx1OI/view?usp=drive_link)
 
 
 Fake-News-Detection In today's digital age, the spread of fake news is a significant concern, as it can lead to misinformation and its harmful effects. This project aims to combat the spread of fake news by utilizing machine learning techniques to verify the legitimacy of information. Using Python, TfidfVectorizer, and PassiveAggressiveClassifier, the project builds a model that can effectively distinguish between real and fake news articles.
